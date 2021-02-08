@@ -50,7 +50,7 @@ def loadBooks():
     """
     Carga los libros
     """
-    return controller.loadBooks('GoodReads/books.csv')
+    return controller.loadBooks('GoodReads/books-small.csv')
 
 
 def loadTags():
@@ -64,8 +64,6 @@ def loadBookTags():
     Cargar los Tags de libros
     """
     # TO-DO: Modificación del Est-1 en el Lab 2
-    return controller.loadBooksTags('GoodReads/book_tags.csv')
-
 
 """
 Menu principal
