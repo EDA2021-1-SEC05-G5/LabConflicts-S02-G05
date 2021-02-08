@@ -1,8 +1,8 @@
 # ISIS1225 - Estructura de un proyecto
 
-- Estudiante 1: Eduardo José Herrera Alba | ej.herreraa@uniandes.edu.co | 201912865
+- Estudiante 1: Eduardo José Herrera Alba | ej.herreraa@uniandes.edu.co | 201912865 |
 
-- Estudiante 2: Juan José Sierra Alarcón | j.sierraa@uniandes.edu.co | 202013642
+- Estudiante 2: Juan José Sierra Alarcón | j.sierraa@uniandes.edu.co | 202013642 |
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
